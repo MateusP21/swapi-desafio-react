@@ -13,7 +13,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background-image: url(https://images.unsplash.com/photo-1520034475321-cbe63696469a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-image: linear-gradient(to left, lightblue,lightpink);
     -webkit-font-smoothing: antialised !important;
   }
 
